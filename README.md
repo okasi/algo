@@ -5,6 +5,7 @@
 *Visual representation & algorithmic trading web and native mobile app.*
 
 ![CleanLogo](docs/clean-logo.png)
+<br />
 ![DomainLogo](docs/domain-logo.png)
 
 <br />
