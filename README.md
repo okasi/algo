@@ -4,7 +4,7 @@
 # !!! WIP !!!
 
 # algo.la
-*Visual representation & algorithmic trading web and native mobile app.*
+*Charts w/ DamlaSticks™ & algorithmic trading web app.*
 
 ![CleanLogo](docs/clean-logo.png)
 <br />
